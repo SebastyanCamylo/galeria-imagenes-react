@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.color {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  margin-bottom: 2rem;
+}
